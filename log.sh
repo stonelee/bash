@@ -31,6 +31,8 @@ groupGitLog() {
 
 gitLog svg $START
 gitLog svg-kj83 $START
+gitLog svg-network $START
+gitLog node-webkit-kj83 $START
 
 gitLog ace $START
 gitLog spimp $START
